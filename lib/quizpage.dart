@@ -90,12 +90,6 @@ class QuizPageState extends State<QuizPage>{
                 enabledBorder: OutlineInputBorder(borderSide: BorderSide(color: Colors.white, width: 3.0)),
             ),
 
-            onEditingComplete: (){
-              FocusScope.of(context).requestFocus(new FocusNode());
-              if (userInputController.text == "q") {
-                userInputController.text = currentQuestion.answer;
-              }
-            }
         )
       );
 
