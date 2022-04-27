@@ -1,4 +1,4 @@
-# chemistry_app
+# chemistry trivia app
 
 A trivia app for chemical equations
 
