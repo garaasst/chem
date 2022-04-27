@@ -1,10 +1,10 @@
 # chemistry_app
 
-A new Flutter application.
+A trivia app for chemical equations
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project was created using Flutter.
 
 A few resources to get you started if this is your first Flutter project:
 
